@@ -1,73 +1,98 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 20px;
+body{
+margin:0;
 }
 
-#logo {
-    width: 100px;
-    padding: px;
-    border: 15px solid rgb(41, 42, 63) ;
-    background: red;
-    
-}
-#nav {
-    width: 370px;
-    padding: px;
-    border: 15px solid rgb(41, 42, 63);
-    background: red;
+
+.container{
+max-width:1200px;
+margin:auto;
 }
 
-#social {
-    width: 100px;
-    padding: px;
-    border: 15px solid rgb(41, 42, 63) ;
-    background: red;
+header{
+display:flex;
+justify-content:space-between;
+padding:20px;
+background:#1c2b3a;
 }
 
-body {
-    max-width: 1200px
-    background white;  
+.logo{
+background:#ff6b6b;
+padding:20px;
 }
 
-.banner {
-    width: 600px;
-    background-color: yellow;
-    padding: 20px solid;
-    border: 15px solid orange;
-    margin: 20px;
+.nav{
+background:#ff6b6b;
+padding:20px;
+flex:1;
+margin:0 20px;
 }
 
-.content {
-    display: flex;
-    border: 15px solid black;
-    margin: 20px;
+.social{
+background:#ff6b6b;
+padding:20px;
 }
 
-aside {
-    width: px;
-    height: 200px;
-    padding: px;
-    border: 15px solid black;
-    margin: px;
-    background: yellow;
-    flex: 1;
+.banner{
+background:orange;
+padding:40px;
+margin:20px;
 }
 
-#navigation {
-    width: 150px;
-    height: px;
-    padding: px;
-    border: px;
-    background: rgb(96, 96, 182);
+main{
+display:flex;
+gap:20px;
+padding:20px;
+background:#000000;
 }
 
-footer {
-    width: px;
-    height: px;
-    padding: px;
-    border: 15px solid;
-    margin: 20px;
-    background: yellow;
+.articles{
+flex:3;
+background:#555;
+padding:20px;
+display:flex;
+flex-wrap:wrap;
+gap:20px;
+}
+
+article{
+background:#2e6fa3;
+flex:1 1 45%;
+padding:20px;
+}
+
+.navegacion{
+background:#7da0b8;
+width:100%;
+padding:20px;
+}
+
+.publicidad{
+flex:1;
+background:#ff4757;
+padding:20px;
+}
+
+.publicidad div{
+background:yellow;
+padding:20px;
+margin-bottom:20px;
+}
+
+footer{
+background:#e9d859;
+padding:30px;
+margin:20px;
+}
+
+@media (max-width:768px){
+
+main{
+flex-direction:column;
+}
+
+header{
+flex-direction:column;
+gap:10px;
+}
+
 }
