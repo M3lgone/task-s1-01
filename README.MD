@@ -1,5 +1,5 @@
 # Sprint 1: Layouts & PHP  
-  **Description**: Breu explicació de l'objectiu.  
+  **Description**:  
   
   ## 🛠 Tecnologies  
   - Frontend: HTML, CSS  

@@ -1,0 +1,73 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+#logo {
+    width: 100px;
+    padding: px;
+    border: 15px solid rgb(41, 42, 63) ;
+    background: red;
+    
+}
+#nav {
+    width: 370px;
+    padding: px;
+    border: 15px solid rgb(41, 42, 63);
+    background: red;
+}
+
+#social {
+    width: 100px;
+    padding: px;
+    border: 15px solid rgb(41, 42, 63) ;
+    background: red;
+}
+
+body {
+    max-width: 1200px
+    background white;  
+}
+
+.banner {
+    width: 600px;
+    background-color: yellow;
+    padding: 20px solid;
+    border: 15px solid orange;
+    margin: 20px;
+}
+
+.content {
+    display: flex;
+    border: 15px solid black;
+    margin: 20px;
+}
+
+aside {
+    width: px;
+    height: 200px;
+    padding: px;
+    border: 15px solid black;
+    margin: px;
+    background: yellow;
+    flex: 1;
+}
+
+#navigation {
+    width: 150px;
+    height: px;
+    padding: px;
+    border: px;
+    background: rgb(96, 96, 182);
+}
+
+footer {
+    width: px;
+    height: px;
+    padding: px;
+    border: 15px solid;
+    margin: 20px;
+    background: yellow;
+}
