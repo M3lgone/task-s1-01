@@ -43,7 +43,12 @@ Alternatively, you can open the `index.html` file directly in your browser.
 
 ## 📸 Preview
 
-<img src="preview.png" width="800">
+## 📸 Preview
+
+<p align="center">
+  <img src="preview1.png" width="400">
+  <img src="preview2.png" width="400">
+</p>
 
 
 ## ⭐ Exercises
