@@ -43,8 +43,6 @@ Alternatively, you can open the `index.html` file directly in your browser.
 
 ## 📸 Preview
 
-## 📸 Preview
-
 <p align="center">
   <img src="preview1.png" width="400">
   <img src="preview2.png" width="400">
@@ -65,3 +63,14 @@ Exercises 4 and 5
 
 ⭐⭐⭐ **3 Stars**  
 Exercises 6 and 7
+
+
+## ✅ Progress
+
+- [x] Exercise 1 — Desktop layout
+- [x] Exercise 2 — Tablet responsive layout
+- [x] Exercise 3 — Mobile responsive layout
+- [ ] Exercise 4
+- [ ] Exercise 5
+- [ ] Exercise 6
+- [ ] Exercise 7
