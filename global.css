@@ -112,3 +112,16 @@ footer{
         grid-template-columns:1fr;}
 }
 
+@media (max-width: 600px) {
+    main{
+        display:grid;
+        grid-template-columns:1fr;
+        }
+        .articles{
+            grid-template-columns:1fr;
+            }
+            .navegacion{
+                grid-column:1;
+                }
+}
+
