@@ -44,8 +44,8 @@ Alternatively, you can open the `index.html` file directly in your browser.
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview1.png" width="400">
-  <img src="preview2.png" width="400">
+  <img src="assets/preview1.png" width="400">
+  <img src="assets/preview2.png" width="400">
 </p>
 
 
