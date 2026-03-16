@@ -17,9 +17,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-
   padding: 20px;
-
   background: rgba(255, 255, 255, 0.85);
 }
 
@@ -41,6 +39,10 @@ header {
   font-size: 14px;
 }
 
+.nav a:hover {
+  color: #e47d61;
+}
+
 .nav img {
   width: 16px;
   height: 16px;
@@ -56,6 +58,10 @@ header {
   height: 18px;
 }
 
+.social img:hover {
+  opacity: 0.6;
+}
+
 .hero {
   background-image: url("assets/header.jpg");
   background-size: cover;
@@ -69,7 +75,7 @@ header {
 }
 
 .hero h1 {
-  color: #e47d61;
+  color: rgba(228, 125, 97, 0.8);
   font-size: 32px;
   font-weight: normal;
 }
@@ -91,6 +97,10 @@ main {
 article {
   background: white;
   border: 1px solid #ddd;
+}
+
+article a:hover {
+  color: #e47d61;
 }
 
 .article-image {
