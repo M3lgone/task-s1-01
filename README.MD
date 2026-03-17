@@ -18,7 +18,6 @@ The objective of the task was to practice:
 - CSS Grid
 - Responsive design using media queries
 
-
 ## 🛠 Technologies
 
 - HTML5
@@ -26,7 +25,6 @@ The objective of the task was to practice:
 - Flexbox
 - CSS Grid
 - Media Queries
-
 
 ## 🚀 Installation
 
@@ -40,14 +38,12 @@ Open the project folder and run it using a local server.
 
 Alternatively, you can open the `index.html` file directly in your browser.
 
-
 ## 📸 Preview
 
 <p align="center">
   <img src="assets/preview1.png" width="400">
   <img src="assets/preview2.png" width="400">
 </p>
-
 
 ## ⭐ Exercises
 
@@ -64,13 +60,12 @@ Exercises 4 and 5
 ⭐⭐⭐ **3 Stars**  
 Exercises 6 and 7
 
-
 ## ✅ Progress
 
 - [x] Exercise 1 — Desktop layout
 - [x] Exercise 2 — Tablet responsive layout
 - [x] Exercise 3 — Mobile responsive layout
-- [ ] Exercise 4
-- [ ] Exercise 5
+- [x] Exercise 4
+- [x] Exercise 5
 - [ ] Exercise 6
-- [ ] Exercise 7
+- [x] Exercise 7
