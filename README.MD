@@ -4,19 +4,18 @@
 
 This repository contains the exercises for **Sprint 1 — Task 01**.
 
-In this task I created a responsive layout using **HTML and CSS**.  
+In this task, a responsive layout was developed using **HTML and CSS**.
 The layout adapts to different screen sizes and works correctly on:
 
 - Desktop
 - Tablet
 - Mobile
 
-The objective of the task was to practice:
+## 🎯 Objectives
 
-- HTML semantic structure
-- CSS Flexbox
-- CSS Grid
-- Responsive design using media queries
+- Practice semantic HTML structure
+- Work with **CSS Flexbox** and **CSS Grid**
+- Implement responsive design using media queries
 
 ## 🛠 Technologies
 
@@ -31,23 +30,41 @@ The objective of the task was to practice:
 Clone the repository:
 
 ```bash
-git clone https://github.com/M3lgone/tasca-s1-01.git
+git clone https://github.com/M3lgone/task-s1-01.git
 ```
 
 Open the project folder and run it using a local server.
 
-Alternatively, you can open the `index.html` file directly in your browser.
+You can also open the `index.html` file directly in your browser.
 
 ## 📸 Preview
+
+Below are some screenshots of the final result:
 
 <p align="center">
   <img src="assets/preview1.png" width="400">
   <img src="assets/preview2.png" width="400">
 </p>
 
+## 📁 Project Structure
+
+├── level-1/  
+│ ├── index.html  
+│ └── global.css  
+├── level-2/  
+│ ├── index.html  
+│ └── global.css  
+├── level-3/  
+│ ├── index.html  
+│ └── global.css  
+├── assets/  
+│ ├── images  
+│ └── icons  
+├── README.md
+
 ## ⭐ Exercises
 
-This task contains **7 exercises**.
+This task includes **7 exercises**.
 
 The number of completed exercises determines the **final score (stars)**:
 
@@ -62,10 +79,10 @@ Exercises 6 and 7
 
 ## ✅ Progress
 
-- [x] Exercise 1 — Desktop layout
-- [x] Exercise 2 — Tablet responsive layout
-- [x] Exercise 3 — Mobile responsive layout
-- [x] Exercise 4 — Header design and styling
-- [x] Exercise 5 — Articles section
-- [x] Exercise 6 — Animations with CSS keyframes
-- [x] Exercise 7 — Layout using CSS Grid
+- [x] 1. Desktop layout
+- [x] 2. Tablet responsive layout
+- [x] 3. Mobile responsive layout
+- [x] 4. Header design and styling
+- [x] 5. Articles section
+- [x] 6. CSS keyframe animations
+- [x] 7. Layout with CSS Grid
