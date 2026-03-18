@@ -1,6 +1,6 @@
 # Sprint 1 — Task 01: Layouts & PHP
 
-## Description
+## 📄 Description
 
 This repository contains the exercises for **Sprint 1 — Task 01**.
 
@@ -65,7 +65,7 @@ Exercises 6 and 7
 - [x] Exercise 1 — Desktop layout
 - [x] Exercise 2 — Tablet responsive layout
 - [x] Exercise 3 — Mobile responsive layout
-- [x] Exercise 4
-- [x] Exercise 5
-- [ ] Exercise 6
-- [x] Exercise 7
+- [x] Exercise 4 — Header design and styling
+- [x] Exercise 5 — Articles section
+- [x] Exercise 6 — Animations with CSS keyframes
+- [x] Exercise 7 — Layout using CSS Grid
