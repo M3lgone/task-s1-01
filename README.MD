@@ -48,6 +48,7 @@ Below are some screenshots of the final result:
 
 ## 📁 Project Structure
 
+```
 ├── level-1/  
 │   ├── index.html  
 │   └── global.css  
@@ -61,6 +62,7 @@ Below are some screenshots of the final result:
 │   ├── images  
 │   └── icons  
 ├── README.md  
+```
 
 ## ⭐ Exercises
 
