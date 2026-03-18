@@ -49,18 +49,18 @@ Below are some screenshots of the final result:
 ## 📁 Project Structure
 
 ├── level-1/  
-│ ├── index.html  
-│ └── global.css  
+│   ├── index.html  
+│   └── global.css  
 ├── level-2/  
-│ ├── index.html  
-│ └── global.css  
+│   ├── index.html  
+│   └── global.css  
 ├── level-3/  
-│ ├── index.html  
-│ └── global.css  
+│   ├── index.html  
+│   └── global.css  
 ├── assets/  
-│ ├── images  
-│ └── icons  
-├── README.md
+│   ├── images  
+│   └── icons  
+├── README.md  
 
 ## ⭐ Exercises
 
