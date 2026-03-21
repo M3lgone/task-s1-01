@@ -109,7 +109,15 @@ footer{
 @media (max-width:800px) {
     main{
         display:grid;
-        grid-template-columns:1fr;}
+        grid-template-columns:1fr;
+    }
+    header{
+        flex-direction:column;
+        gap:20px;
+        }
+    .nav{
+        margin:0;
+        }
 }
 
 @media (max-width: 600px) {
@@ -117,11 +125,18 @@ footer{
         display:grid;
         grid-template-columns:1fr;
         }
+        header{
+        flex-direction:column;
+        gap:20px;
+        }
+        .nav{
+        margin:0;
+        }
         .articles{
-            grid-template-columns:1fr;
-            }
-            .navegacion{
-                grid-column:1;
-                }
+        grid-template-columns:1fr;
+        }
+        .navegacion{
+        grid-column:1;
+        }
 }
 
